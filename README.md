@@ -13,6 +13,11 @@ Criar o diagrama dimensional – star schema – com base no diagrama relacional
 [![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=FFDD02)](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
 <br>
 
+## Resultado
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src="https://github.com/Eduardoppereira/schema-power-bi/blob/main/der_universidade.png" width="90%">
+</p>
+
 ## Desenvolvedor
 <table>
   <tr>
